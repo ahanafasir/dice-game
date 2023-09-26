@@ -1,5 +1,7 @@
 # Diced - Dice Game
 
+visit: https://diced-game.netlify.app/
+
 Diced is a simple two-player dice game built with HTML, CSS, and JavaScript. In this game, two players take turns rolling a dice to accumulate points. The goal is to be the first player to reach or exceed 100 points. Below is an overview of the code and how to play the game.
 
 ## Table of Contents
